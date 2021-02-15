@@ -1,0 +1,15 @@
+README.md
+setup.py
+src/folderclone/__init__.py
+src/folderclone/_helpers.py
+src/folderclone/multifolderclone.py
+src/folderclone/multimanager.py
+src/folderclone.egg-info/PKG-INFO
+src/folderclone.egg-info/SOURCES.txt
+src/folderclone.egg-info/dependency_links.txt
+src/folderclone.egg-info/entry_points.txt
+src/folderclone.egg-info/requires.txt
+src/folderclone.egg-info/top_level.txt
+src/folderclonecli/__init__.py
+src/folderclonecli/mfcparse.py
+src/folderclonecli/mmparse.py

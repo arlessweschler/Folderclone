@@ -1,0 +1,6 @@
+google_auth_oauthlib
+urllib3
+httplib2shim
+protobuf
+pyreadline
+google_api_python_client
