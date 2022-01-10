@@ -13,7 +13,7 @@ with open('README.md', 'r') as fh:
     long_description = fh.read()
 
 setup(
-     name='folderclone',
+     name='gdclone',
      entry_points={
         'console_scripts': [
             'multimanager=folderclonecli.mmparse:main',
