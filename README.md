@@ -5,7 +5,8 @@
 
 folderclone is available on PyPI, so you can install it using pip.
 
-    pip3 install git+git://github.com/arlessweschler/Folderclone@master
+    pip3 install gdclone
+    pip install gdclone
 
 
 ## multimanager
